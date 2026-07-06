@@ -1,5 +1,6 @@
 # blog
 
+- [4G-LoRaWAN wireless ultrasonic flowmeter thermal instrument terminal - external clamp type non rupture tube installation](https://github.com/daq-iot/blog/blob/main/docs/4G-LoRaWAN%20wireless%20ultrasonic%20flowmeter%20thermal%20instrument%20terminal%20-%20external%20clamp%20type%20non%20rupture%20tube%20installation.md)
 - [5G-WiFi-Bluetooth full coverage, multifunctional power marketing handheld collection terminal](https://github.com/daq-iot/blog/blob/main/docs/5G-WiFi-Bluetooth%20full%20coverage%2C%20multifunctional%20power%20marketing%20handheld%20collection%20terminal.md)
 - [Atlas Atlas air compressor cluster intelligent joint control and Data Visualization system project case](https://github.com/daq-iot/blog/blob/main/docs/Atlas%20Atlas%20air%20compressor%20cluster%20intelligent%20joint%20control%20and%20Data%20Visualization%20system%20project%20case.md)
 - [Based on DAQ for IIOT scada Universal Industrial Data Acquisition System Intelligence Platform and Zhihu IoT Application Case in Automotive Parts Coating Line](https://github.com/daq-iot/blog/blob/main/docs/Based%20on%20DAQ%20for%20IIOT%20scada%20Universal%20Industrial%20Data%20Acquisition%20System%20Intelligence%20Platform%20and%20Zhihu%20IoT%20Application%20Case%20in%20Automotive%20Parts%20Coating%20Line.md)
