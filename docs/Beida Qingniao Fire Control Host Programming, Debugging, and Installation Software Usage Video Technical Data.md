@@ -1,0 +1,10 @@
+<https://zhuanlan.zhihu.com/p/1991583903593555062>
+As a professional provider of IoT data acquisition solutions and an expert in industrial IoT data acquisition, the editor of Shanghai Data Acquisition IOT Technology Co., Ltd， (daq-iot) hereby presents the following introduction, and sincerely welcomes discussions and exchanges.
+Supported Communication Interfaces: CAN, RS485, Mbus, 4–20mA, Profibus, CC-Link, HART, digital I/O, etc.
+Industrial Protocols: Modbus RTU/TCP, HJ212, IEC104, DLT645, DLMS, IEC61850, MQTT, etc.
+Mail:export@daq-iot.com
+as[IoTData Acquisition](https://zhida.zhihu.com/search?content_id=268602812&content_type=Article&match_order=1&q=%E7%89%A9%E8%81%94%E7%BD%91%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86&zhida_source=entity)solution Professional provider,[Industrial Data Acquisition](https://zhida.zhihu.com/search?content_id=268602812&content_type=Article&match_order=1&q=%E5%B7%A5%E4%B8%9A%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86&zhida_source=entity)Expert (professional), data acquisition IoT editor daq iot would like to introduce the following content here, and sincerely welcome everyone to discuss and exchange ideas.
+As a professional internet of things data acquisition solutions provider, industrial data acquisition experts (professional households), digital internet of things editor daq - iot here to do the following introduction, and sincerely welcome everyone to discuss and exchange.
+provide[JBF-293K interface card](https://zhida.zhihu.com/search?content_id=268602812&content_type=Article&match_order=1&q=JBF-293K%E6%8E%A5%E5%8F%A3%E5%8D%A1&zhida_source=entity)Fire Data Acquisition commissioning service
+![图片](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/z3rnk6oneva31mhue2bo.jpg)![图片](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/dckvuouylidedyfu8q6x.jpg)![图片](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/5fnxrx01ve2jadjdpkxw.jpg)
+Reference link for materials:[Information website](https://link.zhihu.com/?target=http%3A//www.daq-iot.com)
