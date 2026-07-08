@@ -1,5 +1,6 @@
 # blog
 
+- [4G Infrared Wireless Meter Reading (Meter) Technology, Service, and Supply Standards](https://github.com/DAQIOT/blog/blob/main/docs/4G%20Infrared%20Wireless%20Meter%20Reading%20%28Meter%29%20Technology%2C%20Service%2C%20and%20Supply%20Standards.md)
 - [4G building timed interval photography high-definition engineering camera with built-in large capacity battery solar camera](https://github.com/DAQIOT/blog/blob/main/docs/4G%20building%20timed%20interval%20photography%20high-definition%20engineering%20camera%20with%20built-in%20large%20capacity%20battery%20solar%20camera.md)
 - [4G-LoRaWAN wireless ultrasonic flowmeter thermal instrument terminal - external clamp type non rupture tube installation](https://github.com/DAQIOT/blog/blob/main/docs/4G-LoRaWAN%20wireless%20ultrasonic%20flowmeter%20thermal%20instrument%20terminal%20-%20external%20clamp%20type%20non%20rupture%20tube%20installation.md)
 - [5G-WiFi-Bluetooth full coverage, multifunctional power marketing handheld collection terminal](https://github.com/DAQIOT/blog/blob/main/docs/5G-WiFi-Bluetooth%20full%20coverage%2C%20multifunctional%20power%20marketing%20handheld%20collection%20terminal.md)
