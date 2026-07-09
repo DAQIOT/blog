@@ -1,5 +1,6 @@
 # blog
 
+- [10kV Voltage PV power station Group Control and Adjustment Joint Adjustment Report AGC-AVC Grid connected Ground Adjustment - Multi in One Fusion Terminal Vertical Encryption Control - Virtual Grid Coordination](https://github.com/DAQIOT/blog/blob/main/docs/10kV%20Voltage%20PV%20power%20station%20Group%20Control%20and%20Adjustment%20Joint%20Adjustment%20Report%20AGC-AVC%20Grid%20connected%20Ground%20Adjustment%20-%20Multi%20in%20One%20Fusion%20Terminal%20Vertical%20Encryption%20Control%20-%20Virtual%20Grid%20Coordination.md)
 - [35kV Transformer Core Grounding Current Limiting Protection Online Monitoring Device](https://github.com/DAQIOT/blog/blob/main/docs/35kV%20Transformer%20Core%20Grounding%20Current%20Limiting%20Protection%20Online%20Monitoring%20Device.md)
 - [4G Infrared Wireless Meter Reading (Meter) Technology, Service, and Supply Standards](https://github.com/DAQIOT/blog/blob/main/docs/4G%20Infrared%20Wireless%20Meter%20Reading%20%28Meter%29%20Technology%2C%20Service%2C%20and%20Supply%20Standards.md)
 - [4G building timed interval photography high-definition engineering camera with built-in large capacity battery solar camera](https://github.com/DAQIOT/blog/blob/main/docs/4G%20building%20timed%20interval%20photography%20high-definition%20engineering%20camera%20with%20built-in%20large%20capacity%20battery%20solar%20camera.md)
