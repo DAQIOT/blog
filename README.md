@@ -6,6 +6,7 @@
 - [3 (1)](https://github.com/DAQIOT/blog/blob/main/docs/3%20%281%29.md)
 - [3 (2)](https://github.com/DAQIOT/blog/blob/main/docs/3%20%282%29.md)
 - [3](https://github.com/DAQIOT/blog/blob/main/docs/3.md)
+- [35kV Transformer Core Grounding Current Limiting Protection Online Monitoring Device](https://github.com/DAQIOT/blog/blob/main/docs/35kV%20Transformer%20Core%20Grounding%20Current%20Limiting%20Protection%20Online%20Monitoring%20Device.md)
 - [4 (1)](https://github.com/DAQIOT/blog/blob/main/docs/4%20%281%29.md)
 - [4 (2)](https://github.com/DAQIOT/blog/blob/main/docs/4%20%282%29.md)
 - [4 (3)](https://github.com/DAQIOT/blog/blob/main/docs/4%20%283%29.md)
