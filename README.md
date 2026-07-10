@@ -38,6 +38,7 @@
 - [5 (8)](https://github.com/DAQIOT/blog/blob/main/docs/5%20%288%29.md)
 - [5 (9)](https://github.com/DAQIOT/blog/blob/main/docs/5%20%289%29.md)
 - [5G Intelligent Multi in One Fusion Terminal](https://github.com/DAQIOT/blog/blob/main/docs/5G%20Intelligent%20Multi%20in%20One%20Fusion%20Terminal.md)
+- [5G multi in one communication terminal AGC-AVC main station access wireless communication encryption chip remote transmission - DLT634.6104](https://github.com/DAQIOT/blog/blob/main/docs/5G%20multi%20in%20one%20communication%20terminal%20AGC-AVC%20main%20station%20access%20wireless%20communication%20encryption%20chip%20remote%20transmission%20-%20DLT634.6104.md)
 - [6 (1)](https://github.com/DAQIOT/blog/blob/main/docs/6%20%281%29.md)
 - [6 (10)](https://github.com/DAQIOT/blog/blob/main/docs/6%20%2810%29.md)
 - [6 (11)](https://github.com/DAQIOT/blog/blob/main/docs/6%20%2811%29.md)
