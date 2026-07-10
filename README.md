@@ -93,3 +93,4 @@
 - [7 (4)](https://github.com/DAQIOT/blog/blob/main/docs/7%20%284%29.md)
 - [7 (5)](https://github.com/DAQIOT/blog/blob/main/docs/7%20%285%29.md)
 - [AC-DC High Power Detector 4G Wireless Online Remote Monitoring PV Online Voltage and Current Remote Monitoring Collection High Current WIFI or 4G Cloud Storage Upper and Lower Limit Alarm](https://github.com/DAQIOT/blog/blob/main/docs/AC-DC%20High%20Power%20Detector%204G%20Wireless%20Online%20Remote%20Monitoring%20PV%20Online%20Voltage%20and%20Current%20Remote%20Monitoring%20Collection%20High%20Current%20WIFI%20or%204G%20Cloud%20Storage%20Upper%20and%20Lower%20Limit%20Alarm.md)
+- [CNC Siemens Mitsubishi Fanuc Machine Tool Data Acquisition Monitoring Parameters Workshop Equipment Internet](https://github.com/DAQIOT/blog/blob/main/docs/CNC%20Siemens%20Mitsubishi%20Fanuc%20Machine%20Tool%20Data%20Acquisition%20Monitoring%20Parameters%20Workshop%20Equipment%20Internet.md)
