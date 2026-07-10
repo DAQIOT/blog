@@ -1,0 +1,23 @@
+<https://zhuanlan.zhihu.com/p/2025156971033019562>
+As a professional provider of IoT data acquisition solutions and an expert in industrial IoT data acquisition, the editor of Shanghai Data Acquisition IOT Technology Co., Ltd， (daq-iot) hereby presents the following introduction, and sincerely welcomes discussions and exchanges.
+Supported Communication Interfaces: CAN, RS485, Mbus, 4–20mA, Profibus, CC-Link, HART, digital I/O, etc.
+Industrial Protocols: Modbus RTU/TCP, HJ212, IEC104, DLT645, DLMS, IEC61850, MQTT, etc.
+Mail:export@daq-iot.com
+As IoT[Data Acquisition](https://zhida.zhihu.com/search?content_id=272717698&content_type=Article&match_order=1&q=%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86&zhida_source=entity)solution Professional provider,[Industry IoT](https://zhida.zhihu.com/search?content_id=272717698&content_type=Article&match_order=1&q=%E5%B7%A5%E4%B8%9A%E7%89%A9%E8%81%94%E7%BD%91&zhida_source=entity)Data Acquisition expert (professional account), Shanghai DAQ-IoT Network Technology Co., Ltd. editor daq iot, would like to introduce the following content here and sincerely welcome everyone to discuss and exchange ideas.
+![图片](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/edf16efm9ueypru6dvga.jpg)
+As a professional provider of IoT data acquisition solutions and an expert specializing in industrial IoT data acquisition, daq-iot, editor of Shanghai Data-Acquisition IoT Technology Co., Ltd., hereby presents the following introduction, and sincerely welcomes discussions and exchanges with all.
+1. Application scenarios and requirements[image recognition](https://zhida.zhihu.com/search?content_id=272717698&content_type=Article&match_order=1&q=%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB&zhida_source=entity)Collect and package the instrument photos (if there are data jumps involved, provide videos) for submission;
+![图片](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/o70hzn75ihjj1g1vbubo.jpg)![图片](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/6xklh26d1yk44enwss9f.jpg)![图片](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/12pasu1uhglavca17yra.jpg)
+2. Data recognition collection frequency (how often is it collected);
+Provide two methods: manual button click collection and automatic collection. The camera can have an interface, and there will be a capture button in the software. Click on the capture button to start taking photos. Automatic collection supports setting the collection interval, for example, if set to 10 seconds, collect once every 10 seconds.
+3. What are the data items to be collected (what data is on the dashboard)?
+The data items are not fixed because different instruments collect different data items. Can this be achieved through software providing functions and selecting recognition areas? Please evaluate, Mr. Chen.
+4. Where is the final docking point after data recognition (storage location, 485 output)（[modbusRTU](https://zhida.zhihu.com/search?content_id=272717698&content_type=Article&match_order=1&q=modbusRTU&zhida_source=entity)）What about databases, etc?
+Store it in the collection software, and a collection software will be developed at that time. That is, in the database.
+5. Internal network transmission, overall Data Acquisition transmission method, wifi&Ethernet cable?
+The device is planned to use internal WiFi. Can it support both WiFi and Ethernet cables simultaneously? Because the deployment and control of WiFi in the hospital are relatively strict.
+6. On site power supply conditions are required
+Built in device[Lithium battery](https://zhida.zhihu.com/search?content_id=272717698&content_type=Article&match_order=1&q=%E9%94%82%E7%94%B5%E6%B1%A0&zhida_source=entity)It can be charged and used briefly without power supply, usually powered by a socket.
+7. Installation distance (the installation distance between the camera and the image recognition instrument to be used)
+It can be recognized within a distance of 2 meters during installation.
+8. There is another requirement that I forgot to mention to the data acquisition IoT at that time, which is that if the device is obstructed abnormally, such as by human hands, the device can sound an alarm. Also, if there are a large number of stains on the dial that cannot be recognized or if the data output is abnormal, the acquisition software will give an abnormal signal, and the device will have an alarm that can sound an alarm.
