@@ -1,6 +1,7 @@
 # blog
 
 - [1](https://github.com/DAQIOT/blog/blob/main/docs/1.md)
+- [10kV Voltage PV power station Group Control and Adjustment Joint Adjustment Report AGC-AVC Grid connected Ground Adjustment - Multi in One Fusion Terminal Vertical Encryption Control - Virtual Grid Coordination](https://github.com/DAQIOT/blog/blob/main/docs/10kV%20Voltage%20PV%20power%20station%20Group%20Control%20and%20Adjustment%20Joint%20Adjustment%20Report%20AGC-AVC%20Grid%20connected%20Ground%20Adjustment%20-%20Multi%20in%20One%20Fusion%20Terminal%20Vertical%20Encryption%20Control%20-%20Virtual%20Grid%20Coordination.md)
 - [2](https://github.com/DAQIOT/blog/blob/main/docs/2.md)
 - [3 (1)](https://github.com/DAQIOT/blog/blob/main/docs/3%20%281%29.md)
 - [3 (2)](https://github.com/DAQIOT/blog/blob/main/docs/3%20%282%29.md)
