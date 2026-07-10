@@ -101,3 +101,4 @@
 - [Leakage detector](https://github.com/DAQIOT/blog/blob/main/docs/Leakage%20detector.md)
 - [List of Brands and Models Supported by CNC Machine Tool Grinding Machine Network](https://github.com/DAQIOT/blog/blob/main/docs/List%20of%20Brands%20and%20Models%20Supported%20by%20CNC%20Machine%20Tool%20Grinding%20Machine%20Network.md)
 - [List of Intelligent Laboratory Management System Software Hardware](https://github.com/DAQIOT/blog/blob/main/docs/List%20of%20Intelligent%20Laboratory%20Management%20System%20Software%20Hardware.md)
+- [Lorawan speed online monitoring Sensor transmitter wireless transmission low-power instrument](https://github.com/DAQIOT/blog/blob/main/docs/Lorawan%20speed%20online%20monitoring%20Sensor%20transmitter%20wireless%20transmission%20low-power%20instrument.md)
