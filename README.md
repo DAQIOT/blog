@@ -16,6 +16,7 @@
 - [4G Infrared Wireless Meter Reading (Meter) Technology, Service, and Supply Standards](https://github.com/DAQIOT/blog/blob/main/docs/4G%20Infrared%20Wireless%20Meter%20Reading%20%28Meter%29%20Technology%2C%20Service%2C%20and%20Supply%20Standards.md)
 - [4G building timed interval photography high-definition engineering camera with built-in large capacity battery solar camera](https://github.com/DAQIOT/blog/blob/main/docs/4G%20building%20timed%20interval%20photography%20high-definition%20engineering%20camera%20with%20built-in%20large%20capacity%20battery%20solar%20camera.md)
 - [4G point-to-point long-distance wireless transmission scheme - RS485 serial communication](https://github.com/DAQIOT/blog/blob/main/docs/4G%20point-to-point%20long-distance%20wireless%20transmission%20scheme%20-%20RS485%20serial%20communication.md)
+- [4G wireless battery powered solar low-power timed capture camera FTP transfer photo delay photography plant building recording](https://github.com/DAQIOT/blog/blob/main/docs/4G%20wireless%20battery%20powered%20solar%20low-power%20timed%20capture%20camera%20FTP%20transfer%20photo%20delay%20photography%20plant%20building%20recording.md)
 - [5 (1)](https://github.com/DAQIOT/blog/blob/main/docs/5%20%281%29.md)
 - [5 (10)](https://github.com/DAQIOT/blog/blob/main/docs/5%20%2810%29.md)
 - [5 (11)](https://github.com/DAQIOT/blog/blob/main/docs/5%20%2811%29.md)
