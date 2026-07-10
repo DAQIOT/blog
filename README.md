@@ -1,6 +1,11 @@
 # blog
 
+- [1](https://github.com/DAQIOT/blog/blob/main/docs/1.md)
 - [10kV Voltage PV power station Group Control and Adjustment Joint Adjustment Report AGC-AVC Grid connected Ground Adjustment - Multi in One Fusion Terminal Vertical Encryption Control - Virtual Grid Coordination](https://github.com/DAQIOT/blog/blob/main/docs/10kV%20Voltage%20PV%20power%20station%20Group%20Control%20and%20Adjustment%20Joint%20Adjustment%20Report%20AGC-AVC%20Grid%20connected%20Ground%20Adjustment%20-%20Multi%20in%20One%20Fusion%20Terminal%20Vertical%20Encryption%20Control%20-%20Virtual%20Grid%20Coordination.md)
+- [2](https://github.com/DAQIOT/blog/blob/main/docs/2.md)
+- [3 (1)](https://github.com/DAQIOT/blog/blob/main/docs/3%20%281%29.md)
+- [3 (2)](https://github.com/DAQIOT/blog/blob/main/docs/3%20%282%29.md)
+- [3](https://github.com/DAQIOT/blog/blob/main/docs/3.md)
 - [35kV Transformer Core Grounding Current Limiting Protection Online Monitoring Device](https://github.com/DAQIOT/blog/blob/main/docs/35kV%20Transformer%20Core%20Grounding%20Current%20Limiting%20Protection%20Online%20Monitoring%20Device.md)
 - [4G Infrared Wireless Meter Reading (Meter) Technology, Service, and Supply Standards](https://github.com/DAQIOT/blog/blob/main/docs/4G%20Infrared%20Wireless%20Meter%20Reading%20%28Meter%29%20Technology%2C%20Service%2C%20and%20Supply%20Standards.md)
 - [4G building timed interval photography high-definition engineering camera with built-in large capacity battery solar camera](https://github.com/DAQIOT/blog/blob/main/docs/4G%20building%20timed%20interval%20photography%20high-definition%20engineering%20camera%20with%20built-in%20large%20capacity%20battery%20solar%20camera.md)
@@ -85,9 +90,4 @@
 - [LoRaWAN Wireless Tachometer - Motor Fan - Local Area Network Local Transmission Detection](https://github.com/DAQIOT/blog/blob/main/docs/LoRaWAN%20Wireless%20Tachometer%20-%20Motor%20Fan%20-%20Local%20Area%20Network%20Local%20Transmission%20Detection.md)
 - [LoRaWAN wireless three-phase currentSensorbattery powered](https://github.com/DAQIOT/blog/blob/main/docs/LoRaWAN%20wireless%20three-phase%20currentSensorbattery%20powered.md)
 - [Lorawan speed online monitoring Sensor transmitter wireless transmission low-power instrument](https://github.com/DAQIOT/blog/blob/main/docs/Lorawan%20speed%20online%20monitoring%20Sensor%20transmitter%20wireless%20transmission%20low-power%20instrument.md)
-- [Low Voltage Distributed PV Direct Procurement and Control Terminal](https://github.com/DAQIOT/blog/blob/main/docs/Low%20Voltage%20Distributed%20PV%20Direct%20Procurement%20and%20Control%20Terminal.md)
 - [Low cost Atlas air compressor MK5 GATEWAY remote control communication module CAN Protocol conversion modbus](https://github.com/DAQIOT/blog/blob/main/docs/Low%20cost%20Atlas%20air%20compressor%20MK5%20GATEWAY%20remote%20control%20communication%20module%20CAN%20Protocol%20conversion%20modbus.md)
-- [Low voltage distribution system comprehensive monitoring current-voltage-temperature - CT power transformer open type](https://github.com/DAQIOT/blog/blob/main/docs/Low%20voltage%20distribution%20system%20comprehensive%20monitoring%20current-voltage-temperature%20-%20CT%20power%20transformer%20open%20type.md)
-- [Machining Equipment CNC Milling Machine Grinding Machine Drilling Machine Data Acquisition Networking - Intelligent Conversion Technology Solution](https://github.com/DAQIOT/blog/blob/main/docs/Machining%20Equipment%20CNC%20Milling%20Machine%20Grinding%20Machine%20Drilling%20Machine%20Data%20Acquisition%20Networking%20-%20Intelligent%20Conversion%20Technology%20Solution.md)
-- [Makino Makino CNC Machine Tool OPC-uA-MEL-NC linkProtocolData Network Port Acquisition Equipment Networking Technology Solution - Operation Monitoring Software](https://github.com/DAQIOT/blog/blob/main/docs/Makino%20Makino%20CNC%20Machine%20Tool%20OPC-uA-MEL-NC%20linkProtocolData%20Network%20Port%20Acquisition%20Equipment%20Networking%20Technology%20Solution%20-%20Operation%20Monitoring%20Software.md)
-- [One screen unified management of the entire domain PV! Distributed PV Smart Management Screen Reshaping Intelligence O&M](https://github.com/DAQIOT/blog/blob/main/docs/One%20screen%20unified%20management%20of%20the%20entire%20domain%20PV%21%20Distributed%20PV%20Smart%20Management%20Screen%20Reshaping%20Intelligence%20O%26M.md)
