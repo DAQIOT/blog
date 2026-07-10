@@ -90,3 +90,4 @@
 - [Intelligent Lighting Control Management System - Upper Computer Software](https://github.com/DAQIOT/blog/blob/main/docs/Intelligent%20Lighting%20Control%20Management%20System%20-%20Upper%20Computer%20Software.md)
 - [Intelligent data terminal DAQOIT](https://github.com/DAQIOT/blog/blob/main/docs/Intelligent%20data%20terminal%20DAQOIT.md)
 - [Intelligent monitoring system for agricultural well operation, easy to deploy and highly reliable](https://github.com/DAQIOT/blog/blob/main/docs/Intelligent%20monitoring%20system%20for%20agricultural%20well%20operation%2C%20easy%20to%20deploy%20and%20highly%20reliable.md)
+- [Internal network closed-loop industrial instrument image recognition, data local storage, and Real-time monitoring solution](https://github.com/DAQIOT/blog/blob/main/docs/Internal%20network%20closed-loop%20industrial%20instrument%20image%20recognition%2C%20data%20local%20storage%2C%20and%20Real-time%20monitoring%20solution.md)
