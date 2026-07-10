@@ -1,11 +1,5 @@
 # blog
 
-> DAQ-IOT is an innovative company specializing in industrial data acquisition, wireless sensors and IoT monitoring systems, empowering industries with smarter decisions.
-This repository stores all our official technical documents, including upper computer development, PLC & CNC data collection, SCADA visualization, factory digital transformation and various industrial IoT project cases.
-Website: [www.daq-iot.com](https://link.wtturl.cn/?target=https%3A%2F%2Fwww.daq-iot.com&scene=im&aid=497858&lang=zh)
-TEL/WhatsApp/Wechat: +8619936624847
-Email: export@daq-iot.com
-
 - [10kV Voltage PV power station Group Control and Adjustment Joint Adjustment Report AGC-AVC Grid connected Ground Adjustment - Multi in One Fusion Terminal Vertical Encryption Control - Virtual Grid Coordination](https://github.com/DAQIOT/blog/blob/main/docs/10kV%20Voltage%20PV%20power%20station%20Group%20Control%20and%20Adjustment%20Joint%20Adjustment%20Report%20AGC-AVC%20Grid%20connected%20Ground%20Adjustment%20-%20Multi%20in%20One%20Fusion%20Terminal%20Vertical%20Encryption%20Control%20-%20Virtual%20Grid%20Coordination.md)
 - [35kV Transformer Core Grounding Current Limiting Protection Online Monitoring Device](https://github.com/DAQIOT/blog/blob/main/docs/35kV%20Transformer%20Core%20Grounding%20Current%20Limiting%20Protection%20Online%20Monitoring%20Device.md)
 - [485 interface Modbus Protocol open type DC voltage and current transmitter](https://github.com/DAQIOT/blog/blob/main/docs/485%20interface%20Modbus%20Protocol%20open%20type%20DC%20voltage%20and%20current%20transmitter.md)
