@@ -89,3 +89,4 @@
 - [Intelligent Building Lighting Centralized Control Software System - CAN Communication - Scene Management Dimming Host Computer](https://github.com/DAQIOT/blog/blob/main/docs/Intelligent%20Building%20Lighting%20Centralized%20Control%20Software%20System%20-%20CAN%20Communication%20-%20Scene%20Management%20Dimming%20Host%20Computer.md)
 - [Intelligent Lighting Control Management System - Upper Computer Software](https://github.com/DAQIOT/blog/blob/main/docs/Intelligent%20Lighting%20Control%20Management%20System%20-%20Upper%20Computer%20Software.md)
 - [Intelligent data terminal DAQOIT](https://github.com/DAQIOT/blog/blob/main/docs/Intelligent%20data%20terminal%20DAQOIT.md)
+- [Intelligent monitoring system for agricultural well operation, easy to deploy and highly reliable](https://github.com/DAQIOT/blog/blob/main/docs/Intelligent%20monitoring%20system%20for%20agricultural%20well%20operation%2C%20easy%20to%20deploy%20and%20highly%20reliable.md)
