@@ -37,6 +37,7 @@
 - [5 (7)](https://github.com/DAQIOT/blog/blob/main/docs/5%20%287%29.md)
 - [5 (8)](https://github.com/DAQIOT/blog/blob/main/docs/5%20%288%29.md)
 - [5 (9)](https://github.com/DAQIOT/blog/blob/main/docs/5%20%289%29.md)
+- [5G Intelligent Multi in One Fusion Terminal](https://github.com/DAQIOT/blog/blob/main/docs/5G%20Intelligent%20Multi%20in%20One%20Fusion%20Terminal.md)
 - [6 (1)](https://github.com/DAQIOT/blog/blob/main/docs/6%20%281%29.md)
 - [6 (10)](https://github.com/DAQIOT/blog/blob/main/docs/6%20%2810%29.md)
 - [6 (11)](https://github.com/DAQIOT/blog/blob/main/docs/6%20%2811%29.md)
