@@ -100,3 +100,4 @@
 - [Lanzhou Aluminum Flat Ingot Deep Well Casting ABB PLC Data Acquisition Project- Efficient Protocol Conversion and Industrial Data Interconnection Practice](https://github.com/DAQIOT/blog/blob/main/docs/Lanzhou%20Aluminum%20Flat%20Ingot%20Deep%20Well%20Casting%20ABB%20PLC%20Data%20Acquisition%20Project-%20Efficient%20Protocol%20Conversion%20and%20Industrial%20Data%20Interconnection%20Practice.md)
 - [Leakage detector](https://github.com/DAQIOT/blog/blob/main/docs/Leakage%20detector.md)
 - [List of Brands and Models Supported by CNC Machine Tool Grinding Machine Network](https://github.com/DAQIOT/blog/blob/main/docs/List%20of%20Brands%20and%20Models%20Supported%20by%20CNC%20Machine%20Tool%20Grinding%20Machine%20Network.md)
+- [List of Intelligent Laboratory Management System Software Hardware](https://github.com/DAQIOT/blog/blob/main/docs/List%20of%20Intelligent%20Laboratory%20Management%20System%20Software%20Hardware.md)
