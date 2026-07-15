@@ -1,0 +1,7 @@
+title: DAQIOT Industrial IoT Blog
+description: Technical blog for industrial IoT data acquisition, PV power station AGC/AVC control and industrial communication protocols.
+baseurl: "/blog"
+url: "https://daqiot.github.io"
+theme: minima
+plugins:
+  - jekyll-sitemap
