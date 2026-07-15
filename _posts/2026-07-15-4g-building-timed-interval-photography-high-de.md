@@ -1,3 +1,9 @@
+---
+layout: post
+title: "4G建筑定时拍照方案"
+date: 2026-07-15
+tags: \[4G,低功耗,定时拍照,物联网采集\]
+---
 <https://zhuanlan.zhihu.com/p/1989338445953378135>
 As a professional provider of IoT data acquisition solutions and an expert in industrial IoT data acquisition, the editor of Shanghai Data Acquisition IOT Technology Co., Ltd， (daq-iot) hereby presents the following introduction, and sincerely welcomes discussions and exchanges.
 Supported Communication Interfaces: CAN, RS485, Mbus, 4–20mA, Profibus, CC-Link, HART, digital I/O, etc.
