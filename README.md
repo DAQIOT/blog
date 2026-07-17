@@ -1,5 +1,6 @@
 # blog
 
+- [Groundwater level monitoring terminal-4G low-power water resources SZY206-427-651 Protocol](https://github.com/DAQIOT/blog/blob/main/docs/Groundwater%20level%20monitoring%20terminal-4G%20low-power%20water%20resources%20SZY206-427-651%20Protocol.md)
 - [RS485 Infrared Sensor Acquisition LED Display Product Manual](https://github.com/DAQIOT/blog/blob/main/docs/RS485%20Infrared%20Sensor%20Acquisition%20LED%20Display%20Product%20Manual.md)
 - [RS485 serial-LoRa wireless temperature and vibration transmitter - Vibration Sensor Low power consumption](https://github.com/DAQIOT/blog/blob/main/docs/RS485%20serial-LoRa%20wireless%20temperature%20and%20vibration%20transmitter%20-%20Vibration%20Sensor%20Low%20power%20consumption.md)
 - [RVG type gas waist wheel flowmeter gas meter photography Zhihu OCR image recognition wireless remote energy consumption monitoring solution - Energy Management System](https://github.com/DAQIOT/blog/blob/main/docs/RVG%20type%20gas%20waist%20wheel%20flowmeter%20gas%20meter%20photography%20Zhihu%20OCR%20image%20recognition%20wireless%20remote%20energy%20consumption%20monitoring%20solution%20-%20Energy%20Management%20System.md)
