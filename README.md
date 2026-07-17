@@ -7,4 +7,5 @@
 - [Safe Operation Days Electronic Display Manual](https://github.com/DAQIOT/blog/blob/main/docs/Safe%20Operation%20Days%20Electronic%20Display%20Manual.md)
 - [Shanghai DAQ-IoT Network MES Intelligent Collection Terminal (OEE Analysis) Data Submission Interface](https://github.com/DAQIOT/blog/blob/main/docs/Shanghai%20DAQ-IoT%20Network%20MES%20Intelligent%20Collection%20Terminal%20%28OEE%20Analysis%29%20Data%20Submission%20Interface.md)
 - [Shoe factory shoe production equipment Data Acquisition networked digital transformation plan Shanghai DAQ-IoT](https://github.com/DAQIOT/blog/blob/main/docs/Shoe%20factory%20shoe%20production%20equipment%20Data%20Acquisition%20networked%20digital%20transformation%20plan%20Shanghai%20DAQ-IoT.md)
+- [Sinopec Shanghai Petrochemical Co., Ltd. Visual Recognition Network Meter Reading Project (Pointer Meter)](https://github.com/DAQIOT/blog/blob/main/docs/Sinopec%20Shanghai%20Petrochemical%20Co.%2C%20Ltd.%20Visual%20Recognition%20Network%20Meter%20Reading%20Project%20%28Pointer%20Meter%29.md)
 - [index](https://github.com/DAQIOT/blog/blob/main/docs/index.md)
