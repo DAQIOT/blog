@@ -1,9 +1,4 @@
----
-layout: post
-title: "10kV光伏电站群控AGC/AVC联调并网方案"
-date: 2026-07-15
-tags: \[光伏电站, AGC, AVC, 储能协调, 多合一采集终端\]
----
+
 <https://zhuanlan.zhihu.com/p/1931404773606799013>
 As a professional provider of IoT data acquisition solutions and an expert in industrial IoT data acquisition, the editor of Shanghai Data Acquisition IOT Technology Co., Ltd， (daq-iot) hereby presents the following introduction, and sincerely welcomes discussions and exchanges.
 Supported Communication Interfaces: CAN, RS485, Mbus, 4–20mA, Profibus, CC-Link, HART, digital I/O, etc.
