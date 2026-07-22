@@ -1,9 +1,0 @@
-baseurl: "/blog"
-url: "https://daqiot.github.io"
-  collections:
-  collections:
-  posts:
-    output: false
-  docs:
-    output: true
-    permalink: /blog/:title/
