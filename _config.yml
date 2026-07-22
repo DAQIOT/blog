@@ -5,3 +5,9 @@ url: "https://daqiot.github.io"
 theme: minima
 plugins:
   - jekyll-sitemap
+  collections:
+  posts:
+    output: false
+  docs:
+    output: true
+    permalink: /blog/:title/
