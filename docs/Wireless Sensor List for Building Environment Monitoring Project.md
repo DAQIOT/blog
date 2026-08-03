@@ -1,0 +1,29 @@
+<https://zhuanlan.zhihu.com/p/1989376378286650750>
+As a professional provider of IoT data acquisition solutions and an expert in industrial IoT data acquisition, the editor of Shanghai Data Acquisition IOT Technology Co., Ltd， (daq-iot) hereby presents the following introduction, and sincerely welcomes discussions and exchanges.
+Supported Communication Interfaces: CAN, RS485, Mbus, 4–20mA, Profibus, CC-Link, HART, digital I/O, etc.
+Industrial Protocols: Modbus RTU/TCP, HJ212, IEC104, DLT645, DLMS, IEC61850, MQTT, etc.
+Mail:export@daq-iot.com
+As a professional provider of IoT, Data Acquisition, solution, and an expert (professional account) in the industrial Data Acquisition field, Daq IoT, the editor of IoT, would like to introduce the following content and sincerely welcome everyone to discuss and exchange ideas.
+As a professional internet of things data acquisition solutions provider, industrial data acquisition experts (professional households), digital internet of things editor daq - iot here to do the following introduction, and sincerely welcome everyone to discuss and exchange.
+![图片](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/14z9vqw0flc585p1l5yl.jpg)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+[Wireless temperature and humidity Sensor](https://zhida.zhihu.com/search?content_id=268381110&content_type=Article&match_order=1&q=%E6%97%A0%E7%BA%BF%E6%B8%A9%E6%B9%BF%E5%BA%A6%E4%BC%A0%E6%84%9F%E5%99%A8&zhida_source=entity) 1. Wireless temperature and humidity Sensor terminal: Temperature: Measurement range: -20~50 ℃; Accuracy: ± 0.3 ℃ (10 ℃)
+30℃)； Humidity: Measurement range: 0-98% RH; Accuracy: ± 2% RH (40% -80% RH); Battery powered,
+10 minute sampling and communication frequency, average operating current<30 μ A, continuous working life ≥ 2 years; The volume of the equipment shall not exceed 30cm3.
+2. Sensor Calibration provides a provincial metrology institute calibration certificate (JJF 1076-2020). "
+[Wireless temperature and humidity VOCSensor](https://zhida.zhihu.com/search?content_id=268381110&content_type=Article&match_order=1&q=%E6%97%A0%E7%BA%BF%E6%B8%A9%E6%B9%BF%E5%BA%A6VOC%E4%BC%A0%E6%84%9F%E5%99%A8&zhida_source=entity)Terminal "Wireless Temperature and Humidity VOC Sensor Terminal: Temperature, Measurement Range: -20~50 ℃,
+Accuracy: ± 0.3 ℃ (10 ℃~30 ℃); Humidity, measurement range: 0-98% RH,
+Accuracy: ± 2% RH (40% RH~80% RH); VOC: Measurement range: 0-20ppm, precision
+Degree: 0.1ppm ± 8%; Battery powered, 30 minute sampling and communication frequency, continuous working life ≥ 1 year. Sensor Calibration provides a provincial metrology institute calibration certificate (JJF 1076-2020). All inclusive. "
+[Wireless temperature, humidity, carbon dioxide Sensor](https://zhida.zhihu.com/search?content_id=268381110&content_type=Article&match_order=1&q=%E6%97%A0%E7%BA%BF%E6%B8%A9%E6%B9%BF%E5%BA%A6%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%BC%A0%E6%84%9F%E5%99%A8&zhida_source=entity)Terminal wireless temperature and humidity carbon dioxide Sensor Terminal: Temperature, measurement range: -20~50 ℃, accuracy: ± 0.3 ℃ (10 ℃~30 ℃), humidity, measurement range: 0~98% RH, accuracy: ± 2% RH (40% RH~80% RH); CO2 measurement range: 0~5000ppm, accuracy: 3% indication ± 60ppm; Battery powered, 10 minute sampling and communication frequency, continuous working life ≥ 1 year, average operating current<50 μ A. biography
+[Wireless temperature, humidity, and lighting Sensor](https://zhida.zhihu.com/search?content_id=268381110&content_type=Article&match_order=1&q=%E6%97%A0%E7%BA%BF%E6%B8%A9%E6%B9%BF%E5%BA%A6%E5%85%89%E7%85%A7%E4%BC%A0%E6%84%9F%E5%99%A8&zhida_source=entity)Terminal wireless temperature, humidity, and lighting Sensor Terminal: Temperature: Measurement range: -20~50 ℃; Accuracy: ± 0.3 ℃ (10 ℃~30 ℃); Humidity: Measurement range: 0-98% RH; Accuracy: ± 2% RH (40%~80% RH) Range: 0.1-10000lx, Accuracy: ± 4%; Battery powered, 10 minute sampling and communication frequency, continuous working life ≥ 1 year, average operating current<50 μ A. Sensor Calibration provides a provincial metrology institute calibration certificate (JJF 1076-2020). All inclusive.
+[Wireless Temperature, Humidity, Ultraviolet Sensor](https://zhida.zhihu.com/search?content_id=268381110&content_type=Article&match_order=1&q=%E6%97%A0%E7%BA%BF%E6%B8%A9%E6%B9%BF%E5%BA%A6%E7%B4%AB%E5%A4%96%E7%BA%BF%E4%BC%A0%E6%84%9F%E5%99%A8&zhida_source=entity)Terminal "Wireless Temperature and Humidity UV Sensor Terminal: Temperature, measurement range: -20~50 ℃, accuracy: ± 0.3 ℃ (10 ℃~30 ℃); Humidity, measurement range: 0-98% RH, accuracy: ± 2% RH (40% RH-80% RH); UV Sensor Storage
+Storage temperature: -40~+90 ℃, working temperature: -30~+85 ℃, power supply voltage: 5.5V, spectral detection range: 220nm~370nm (working temperature 25 ℃). Sensor Calibration provides a provincial metrology institute calibration certificate (JJF 1076-2020). All inclusive. "
+[Gateway](https://zhida.zhihu.com/search?content_id=268381110&content_type=Article&match_order=1&q=%E7%BD%91%E5%85%B3&zhida_source=entity) 1. Wireless communication speed: ≥ 30kbps; Maximum transmission power: ≥ 17dBm; Maximum transmission distance: ≥ 300M (open environment).
+2. Time synchronization: The synchronization accuracy reaches millisecond level.
+3. Data storage: Offline automatic saving of collected data ≥ 50000, packet loss rate ≤ 1%, data persistence ≥ 99.99%, availability ≥ 99.99%.
+4. Data transmission: Receive data uploaded by wireless Sensor and upload the data to the server.
+5. Working temperature: 0 to 40 degrees Celsius.
+6. Working humidity: 10% to 90% RH, non condensing. 7. The protection level shall not be lower than IP68.
+8. Supports two redundant backup power supplies.
+9. The overall warranty is ≥ 3 years (including consumables). 10. All inclusive. "
