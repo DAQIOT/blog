@@ -14,6 +14,7 @@
 - [Difference between Distributed Power Access Unit and PV Protocol Converter](https://github.com/DAQIOT/blog/blob/main/docs/Difference%20between%20Distributed%20Power%20Access%20Unit%20and%20PV%20Protocol%20Converter.md)
 - [Digital IoT Intelligent Lighting Control Dimming System](https://github.com/DAQIOT/blog/blob/main/docs/Digital%20IoT%20Intelligent%20Lighting%20Control%20Dimming%20System.md)
 - [Digital transformation of factory workshop Hardware Electric meter Sensor](https://github.com/DAQIOT/blog/blob/main/docs/Digital%20transformation%20of%20factory%20workshop%20Hardware%20Electric%20meter%20Sensor.md)
+- [Distributed PV - State Grid PV Quad Device - Group Control and Adjustment AGC-AVC Equipment](https://github.com/DAQIOT/blog/blob/main/docs/Distributed%20PV%20-%20State%20Grid%20PV%20Quad%20Device%20-%20Group%20Control%20and%20Adjustment%20AGC-AVC%20Equipment.md)
 - [Distributed PV Data Acquisition control device, 4G-VPN remote communication](https://github.com/DAQIOT/blog/blob/main/docs/Distributed%20PV%20Data%20Acquisition%20control%20device%2C%204G-VPN%20remote%20communication.md)
 - [Distributed PV Wind Farm Station Energy Centralized Control Platform](https://github.com/DAQIOT/blog/blob/main/docs/Distributed%20PV%20Wind%20Farm%20Station%20Energy%20Centralized%20Control%20Platform.md)
 - [Electric Meter Data Acquisition Remote Wireless Meter Reading JSON Data Format](https://github.com/DAQIOT/blog/blob/main/docs/Electric%20Meter%20Data%20Acquisition%20Remote%20Wireless%20Meter%20Reading%20JSON%20Data%20Format.md)
