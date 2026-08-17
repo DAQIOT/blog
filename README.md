@@ -1,6 +1,7 @@
 # blog
 
 - [(Type dyeing machine) Digital large screen display board in chemical fiber textile industry factory workshopData AcquisitionCase](https://github.com/DAQIOT/blog/blob/main/docs/%28Type%20dyeing%20machine%29%20Digital%20large%20screen%20display%20board%20in%20chemical%20fiber%20textile%20industry%20factory%20workshopData%20AcquisitionCase.md)
+- [3.6V lithium battery powered low-power pressure sensor transmitter RS485 interface modbus communicationProtocol](https://github.com/DAQIOT/blog/blob/main/docs/3.6V%20lithium%20battery%20powered%20low-power%20pressure%20sensor%20transmitter%20RS485%20interface%20modbus%20communicationProtocol.md)
 - [35kv-transformer-core-grounding-current-limiting-protection-online-monitoring-device](https://github.com/DAQIOT/blog/blob/main/docs/35kv-transformer-core-grounding-current-limiting-protection-online-monitoring-device.md)
 - [485-interface-modbus-protocol-open-type-dc-voltage-and-current-transmitter](https://github.com/DAQIOT/blog/blob/main/docs/485-interface-modbus-protocol-open-type-dc-voltage-and-current-transmitter.md)
 - [4g-building-timed-interval-photography-high-definition-engineering-equipment copy](https://github.com/DAQIOT/blog/blob/main/docs/4g-building-timed-interval-photography-high-definition-engineering-equipment%20copy.md)
