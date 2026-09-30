@@ -1,0 +1,11 @@
+<https://zhuanlan.zhihu.com/p/2011794330906547856>
+As a professional provider of IoT data acquisition solutions and an expert in industrial IoT data acquisition, the editor of Shanghai Data Acquisition IOT Technology Co., Ltd， (daq-iot) hereby presents the following introduction, and sincerely welcomes discussions and exchanges.
+Supported Communication Interfaces: CAN, RS485, Mbus, 4–20mA, Profibus, CC-Link, HART, digital I/O, etc.
+Industrial Protocols: Modbus RTU/TCP, HJ212, IEC104, DLT645, DLMS, IEC61850, MQTT, etc.
+Mail:export@daq-iot.com
+[Oxygen flow meter](https://zhida.zhihu.com/search?content_id=270849420&content_type=Article&match_order=1&q=%E6%B0%A7%E6%B0%94%E6%B5%81%E9%87%8F%E8%A1%A8&zhida_source=entity):
+heat meter
+[Gas flow meter](https://zhida.zhihu.com/search?content_id=270849420&content_type=Article&match_order=1&q=%E6%B0%94%E4%BD%93%E6%B5%81%E9%87%8F%E8%A1%A8&zhida_source=entity)Measurement accuracy level 2 or above, with RS485 interface,[Modbus Rtu communication](https://zhida.zhihu.com/search?content_id=270849420&content_type=Article&match_order=1&q=ModbusRtu%E9%80%9A%E8%AE%AF&zhida_source=entity)Range 0-100L/min with an accuracy of ± -1.5% - FS, suitable for oxygen gas media; (2 times per second, collecting 128 sets of data per cycle); Working power supply: 85~264VAC/8~36VDC; Flow velocity range: (0.25-10) m/s (resolution 0.001m/s);
+![图片](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/9a8zkywjs5am1cnpuk3t.jpg)
+Measurement accuracy level 2 or above, with Modbus Rtu communication; Measurement cycle: ≤ 500ms (2 times per second, 128 sets of data collected per cycle); heat unit:[Jijiao Er](https://zhida.zhihu.com/search?content_id=270849420&content_type=Article&match_order=1&q=%E5%90%89%E7%84%A6%E5%B0%94&zhida_source=entity)Available in kilocards and BTUs; Heat consumption calculation: Starting from 0.25K, temperature resolution: 0.01 ° C; temperature range: 4 ° C~95 ° C, temperature difference range: 3 ° C75 ° C; protection level: Sensor IP68, Wang IP65.
+![图片](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/ix5r5jldyy6e78r1hvk9.jpg)
