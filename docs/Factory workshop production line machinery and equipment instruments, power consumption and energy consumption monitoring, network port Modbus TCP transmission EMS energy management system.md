@@ -1,0 +1,16 @@
+<https://zhuanlan.zhihu.com/p/1903038972554347302>
+As a professional provider of IoT data acquisition solutions and an expert in industrial IoT data acquisition, the editor of Shanghai Data Acquisition IOT Technology Co., Ltd， (daq-iot) hereby presents the following introduction, and sincerely welcomes discussions and exchanges.
+Supported Communication Interfaces: CAN, RS485, Mbus, 4–20mA, Profibus, CC-Link, HART, digital I/O, etc.
+Industrial Protocols: Modbus RTU/TCP, HJ212, IEC104, DLT645, DLMS, IEC61850, MQTT, etc.
+Mail:export@daq-iot.com
+As a professional provider of IoT, Data Acquisition, and solution, Shucai IoT*Editor daq iot* Here is an introduction to the following content, and we sincerely welcome everyone to discuss and exchange ideas.
+As a professional provider of IoT data collection solutions, daq-iot, the data acquisition and IoT editor, will introduce the following content here and sincerely welcome everyone to discuss and communicate.
+![图片](https://picx.zhimg.com/v2-bfbb8d6d58a6afe88389d928d9d9433e_1440w.jpg)
+*4G*/WIFI communication*wireless*Three phase use*Electricity monitoring device*Collect parameters such as energy consumption, voltage, current, power, etc., supporting http/mqtt/[hj212](https://zhida.zhihu.com/search?content_id=257364576&content_type=Article&match_order=1&q=hj212&zhida_source=entity)Waiting for Protocol to report data to the designated cloud platform, it can be used for monitoring equipment power on/off status, energy consumption, environmental protection, and other scenarios.
+[SC-GP-EM4G wireless power monitoring device](https://zhida.zhihu.com/search?content_id=257364576&content_type=Article&match_order=1&q=SC-GP-EM4G%E6%97%A0%E7%BA%BF%E7%94%B5%E9%87%8F%E7%9B%91%E6%B5%8B%E4%BB%AA&zhida_source=entity)It is an intelligent electricity parameter monitoring device launched byShanghai DAQ-IoTTechnology Co., Ltd., supporting 4G/WiFi/[LoRa](https://zhida.zhihu.com/search?content_id=257364576&content_type=Article&match_order=1&q=LoRa&zhida_source=entity)Waiting for the transmission method. It can be used to monitor the line voltage and current of single-phase and three-phase equipment, and can calculate active power, apparent power and power factor, operating frequency, active energy, etc. Real-time monitors the operation and power consumption of single-phase and three-phase electrical equipment, ensuring the safety of electrical equipment and achieving unmanned monitoring. With relay control equipment, it can automatically cut off power supply due to overvoltage and overcurrent. \*\*\*Used for monitoring environmental electricity usage, monitoring the working status of factory electrical equipment, and other scenarios
+![图片](https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/n9y1qibkd51rnl0x5lu0.jpg)
+**Core advantages of the product**
+**Easy installation, fast deployment, and assistance in the rapid implementation of theIoTproject**
+**U supports custom registration and heartbeat packages, making it easy for the platform to distinguish devices.**
+**U supports external multiple channels Sensor**
+**Non invasive collection, does not affect the normal operation of the equipment**
