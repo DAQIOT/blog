@@ -1,5 +1,5 @@
 <https://zhuanlan.zhihu.com/p/2083994299931407237>
-![图片](images/4G-LoRaWAN Low Power Wireless Ultrasonic Flow Meter - Battery Powered Wireless Cabling/img_1.jpg)
+![图片](images/4G-LoRaWAN%20Low%20Power%20Wireless%20Ultrasonic%20Flow%20Meter%20-%20Battery%20Powered%20Wireless%20Cabling/img_1.jpg)
 ## 1 Product Overview
 1. **Product Introduction**
 DAQ-LP-UF4G low-power 4G/[LoRaWAN](https://zhida.zhihu.com/search?content_id=283821071&content_type=Article&match_order=1&q=LoRaWAN&zhida_source=entity)wireless communication[ultrasonic flowmeter](https://zhida.zhihu.com/search?content_id=283821071&content_type=Article&match_order=1&q=%E8%B6%85%E5%A3%B0%E6%B3%A2%E6%B5%81%E9%87%8F%E8%AE%A1&zhida_source=entity)It is a new generation non-contact flow measurement product independently developed byShanghai DAQ-IoTTechnology Co., Ltd. (brand: Shucai IoT). product adoption[time difference method](https://zhida.zhihu.com/search?content_id=283821071&content_type=Article&match_order=1&q=%E6%97%B6%E5%B7%AE%E6%B3%95&zhida_source=entity)The principle of ultrasonic measurement consists of an ultrasonic flowmeter transmitter host, an externally clamped ultrasonic probe, a 4G battery powered acquisition module (model: DAQ-LP-GWRTU), and installation accessories. It can achieve accurate measurement of liquid flow inside the pipeline without damaging the pipeline or interrupting the fluid flow.
@@ -84,7 +84,7 @@ Table 3 Electrical and Communication Parameters
 Table 4 Environmental and Physical Parameters
 ## 4 Product Composition and Structure
 The standard configuration of DAQ-LP-UF4G low-power 4G ultrasonic flowmeter consists of the following parts, which work together to complete the task[flow measurement](https://zhida.zhihu.com/search?content_id=283821071&content_type=Article&match_order=3&q=%E6%B5%81%E9%87%8F%E6%B5%8B%E9%87%8F&zhida_source=entity)Remote transmission of data.
-![图片](images/4G-LoRaWAN Low Power Wireless Ultrasonic Flow Meter - Battery Powered Wireless Cabling/img_2.jpg)
+![图片](images/4G-LoRaWAN%20Low%20Power%20Wireless%20Ultrasonic%20Flow%20Meter%20-%20Battery%20Powered%20Wireless%20Cabling/img_2.jpg)
 Figure 1 Physical picture of DAQ-LP-UF4G product (host, acquisition module, probe and accessories)
 ### 4.1 Ultrasonic flowmeter host
 The host is a blue aluminum alloy shell transmitter, equipped with an LCD display screen and 5 operation buttons (Menu button, up/down/left/right navigation button) on the front, and 5 M12 waterproof aviation connectors at the bottom for connecting probes, power supplies, and communication cables. The host is responsible for the transmission and reception of ultrasonic signals, time difference calculation, flow conversion, and local display.
@@ -177,7 +177,7 @@ Probe installation distance: After setting, the host automatically calculates an
 Flow unit: Select instantaneous flow and cumulative flow units;
 Accumulated amount reset: Perform forward/reverse accumulated amount reset operation in the menu.
 ## 8 IoT platform application
-![图片](images/4G-LoRaWAN Low Power Wireless Ultrasonic Flow Meter - Battery Powered Wireless Cabling/img_3.jpg)
+![图片](images/4G-LoRaWAN%20Low%20Power%20Wireless%20Ultrasonic%20Flow%20Meter%20-%20Battery%20Powered%20Wireless%20Cabling/img_3.jpg)
 ### 8.1 Platform Overview
 The data acquisition IoT cloud platform is a device access and development independently developed by Shanghai DAQ-IoT Network Technology Co., Ltd[Data management platform](https://zhida.zhihu.com/search?content_id=283821071&content_type=Article&match_order=1&q=%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0&zhida_source=entity)Provide one-stop services such as data storage, display, analysis, and alarm for DAQ-LP-UF4G flow meters. The platform adopts B/S architecture, supports concurrent access of massive devices, ensures data security and reliability, and can be flexibly expanded.
 ### 8.2 Equipment Launch and Binding
